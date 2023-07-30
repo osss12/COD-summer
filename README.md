@@ -7,3 +7,5 @@ VoiceReorder - uses Google Speech To Text API for speech (extracted from a local
 Stream_STT - uses Google Speech To Text API for speech to text translation.
            - The Streaming Speech To Text conversion has been implmented in this version.
 More Details can be found the 'Documentation.pdf' file.
+
+NOTE: add your api credentials in 'VoiceReorder' and 'Stream_STT' proejcts.
