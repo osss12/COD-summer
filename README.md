@@ -9,5 +9,7 @@ Stream_STT - uses Google Speech To Text API for speech to text translation.
 More Details can be found the 'Documentation.pdf' file.
 
 NOTE: add your api credentials in 'VoiceReorder' and 'Stream_STT' proejcts.
+
+
 Path - 'VoiceRecorder/app/src/main/res/raw/credential.json'
      - 'Stream_STT/app/src/main/res/raw/credential.json'
